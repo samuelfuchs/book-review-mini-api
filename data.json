@@ -7,7 +7,7 @@
     "topics": "Java, Clean Code",
     "quantity": "420",
     "price": "16.50",
-    "must-read": true,
+    "mustread": true,
     "description": "A clean code should be elegant, efficient, readable, simple, without duplications, and well-written. You should add value to the business with your code. Clean code offers quality and understanding when we open a class. It is necessary that your code is clean and readable for anyone to find and easily understand."
   },
   {
