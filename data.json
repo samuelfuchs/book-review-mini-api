@@ -5,7 +5,7 @@
     "image": "🥑",
     "from": "Robert C. Martin",
     "topics": "Java, Clean Code",
-    "quantity": "420 pages",
+    "quantity": "420",
     "price": "16.50",
     "must-read": true,
     "description": "A clean code should be elegant, efficient, readable, simple, without duplications, and well-written. You should add value to the business with your code. Clean code offers quality and understanding when we open a class. It is necessary that your code is clean and readable for anyone to find and easily understand."
@@ -16,7 +16,7 @@
     "image": "🧀",
     "from": "Steve Krug",
     "nutrients": "UI/UX, Web usability",
-    "quantity": "216 pages",
+    "quantity": "216",
     "price": "15.00",
     "organic": false,
     "description": "Don't Make Me Think is a book by Steve Krug about human–computer interaction and web usability. The book's premise is that a good software program or web site should let users accomplish their intended tasks as easily and directly as possible."
