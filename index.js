@@ -29,7 +29,7 @@ const server = http.createServer((req, res) => {
     const cardsHtml = dataObj
       .map((el) => replaceTemplate(tempCard, el))
       .join('')
-    const output = tempOverview.replace('{%PRODUCT_CARDS%}', cardsHtml)
+    const output = tempOverview.replace('{%BOOK_CARDS%}', cardsHtml)
 
     res.end(output)
 
